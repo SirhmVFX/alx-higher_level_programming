@@ -2,7 +2,7 @@
 
 *** 
 
-This directory contains solutions that i submitted for the tasks on 0x01-python-if_else_loops_functions
+This directory contains solutions to the task submitted for the tasks on 0x01-python-if_else_loops_functions
 
 *** 
 
