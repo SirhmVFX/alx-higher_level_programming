@@ -26,3 +26,5 @@ This directory contains solutions to the task submitted for the tasks on 0x01-py
 * 101-remove_char_at.py
 * 102-magic_calculation.py
 * list.h
+
+# By Sirhmvfx
